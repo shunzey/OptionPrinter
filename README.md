@@ -4,7 +4,7 @@ An option usage printer for CUI command line programs.
 The option format is based on Unix style.
 Options should be defined with short name like `-n` and long name like `--name` that must be required.
 
-# Sample code
+## Sample code
 
 ```C#
 using System;
